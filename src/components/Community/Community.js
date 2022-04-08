@@ -22,8 +22,8 @@ return (
             </p>
             <div className='mobile-avatar' data-aos-once="true" data-aos-delay="100" data-aos-duration="2000" data-aos="fade-up"> 
             <div className='avatar-mobile'><img className='avatar-inner' src='/3avatar.png'  alt='avatar' /></div>
-            {/*<div className='bottle-icon'><img className='bottle-inner' src='/bottle-icon.png'  alt='avatar' /></div>*/}
-            {/*<div className='mask-icon'><img className='mask-inner' src='/mask-icon.png'  alt='avatar' /></div>*/}
+            <div className='bottle-icon'><img className='bottle-inner' src='/bottle-icon.png'  alt='avatar' /></div>
+            <div className='mask-icon'><img className='mask-inner' src='/mask-icon.png'  alt='avatar' /></div>
             </div>
             <div className='btn-div' data-aos-once="true" data-aos-delay="100" data-aos-duration="2000" data-aos="fade-up"> 
                 <div className='button-com'>

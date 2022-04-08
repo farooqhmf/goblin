@@ -35,13 +35,13 @@
 }
 @keyframes mask-zoom {
   0% {
-    transform: scale(0.7);
+    transform: scale(0.6);
   }
   50% {
-    transform: scale(1);
+    transform: scale(0.8);
   }
   100% {
-    transform: scale(0.7);
+    transform: scale(0.6);
   }
 }
 .bottle-in {
@@ -59,7 +59,7 @@
     transform: rotateZ(0deg);
   }
   50% {
-    transform: rotateZ(30deg);
+    transform: rotateZ(20deg);
   }
   100% {
     transform: rotateZ(0deg);
@@ -259,7 +259,7 @@
   .mask-icon {
     position: absolute;
     z-index: 1;
-    width: 7em;
+    width: 20%;
     display: block;
     bottom: 0%;
     top: auto;
@@ -274,10 +274,9 @@
   }
   .bottle-icon {
     z-index: 1;
-    width: 7em;
+    width: 20%;
     display: block;
     position: absolute;
-    left: auto;
     top: -7%;
     right: 2%;
     bottom: auto;
