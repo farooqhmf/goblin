@@ -242,11 +242,11 @@
     margin-left: 10px;
   }
   .disabled-roadmap-percentage {
-    margin: 15px 0 0 45px;
+    margin: 1em 0 0 1.5em;
     font-size: 1.525em;
   }
   .roadmap-percentage {
-    margin: 15px 0 0 45px;
+    margin: 0.5em 0 0 1.5em;
     font-size: 1.525em;
   }
   .disabled-duration {
@@ -276,6 +276,6 @@
     font-weight: 600;
   }
   .Green-dots-icon {
-    left: 0.5em;
+    left: 0.34em;
   }
 }
